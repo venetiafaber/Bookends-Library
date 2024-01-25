@@ -1,2 +1,2 @@
 # Bookends-Library
-Bookends Library - Project using JS, HTML5, CSS3
+Bookends Library - Project using JS, JQuery, HTML5 and CSS3
